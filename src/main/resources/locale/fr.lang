@@ -1,0 +1,49 @@
+# Traduction réalisée par Caranud (https://steamcommunity.com/id/Caranud/)
+# Version de mod : 1.1.9 [31/10/25]
+# Version de jeu : 1.0.2 [27/10/25]
+# Date de la dernière traduction : 16/11/2025
+# Note de Caranud : n’hésitez pas à reprendre cette traduction si je ne suis plus actif et disponible depuis un moment ! :) Je suis également sur le serveur Discord (https://discord.com/invite/HSvuUuA).
+
+[terraformer]
+terraformertip1=Cliquez avec le bouton droit sur cet objet pour ouvrir les paramètres.
+terraformertip2=Cliquez avec le bouton gauche pour placer des tuiles et chemins/sols depuis l’inventaire.
+terraformertip3=Cliquez avec le bouton droit dans le monde pour retirer des tuiles et chemins/sols du monde.
+terraformertip4=Ne retire que les tuiles et chemins/sols exactement du même type.
+terraformertip5=S’il n’y a pas de tuile ou chemin/sol équipé dans la machine, la première tuile retirée est alors conservée.
+terraformertip6=La case orange indique la case de départ.
+terraformertip7=Permet de remodeler le monde. Le rêve de tout terrassier.
+// Le jeu de mot était ici "It's worlds apart." Difficile à traduire, j’ai opté pour quelque chose de différent.
+terraformercontrolsizeup=Augmenter la taille (terraformeur/architecte)
+terraformercontrolsizedown=Diminuer la taille (terraformeur/architecte)
+decreasesize=Réduire la zone de la forme
+increasesize=Augmenter la zone de la forme
+shapeadjustment=Taille :
+shapeslector=Sélectionner la forme
+
+[constructor.shapes]
+square=Carré
+linebox=Contour de carré
+line=Ligne
+circle=Cercle
+ring=Anneau
+checkerboard=Damier
+
+[constructor.ui]
+itemupgradelimit=Vous ne pouvez pas l’améliorer davantage !
+itemupgradeable=§9Améliorez à une station d’amélioration pour de meilleures portées et tailles.
+[constructor.itemtooltip]
+rangetip=Portée maximum : <value>
+sizetip=Taille maximum de forme : <value>
+
+[builder]
+buildertip1=Cliquez avec le bouton droit sur cet objet pour ouvrir les paramètres.
+buildertip2=Cliquez avec le bouton gauche pour placer des objets depuis l’inventaire.
+buildertip3=Cliquez avec le bouton droit dans le monde pour retirer des objets du monde.
+buildertip4=Ne retire que les objets exactement du même type.
+buildertip5=S’il n’y a pas d’objet équipé dans la machine, le premier objet retiré est alors conservé.
+buildertip6=La case orange indique la case de départ.
+buildertip7=C’est archi-parfait, non ?
+// La blague d’origine était "Purely object-ive."
+[item]
+terraformer=Machine de terraformeur
+builder=Machine d’architecte
